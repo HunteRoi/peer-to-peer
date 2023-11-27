@@ -6,8 +6,7 @@
     "python.terminal.activateEnvironment": true,
     "python.languageServer": "Pylance",
     "python.analysis.extraPaths": [
-        "./src",
-        "./tests"
+        "./"
     ],
     "python.analysis.autoSearchPaths": true,
     "python.analysis.autoFormatStrings": true,
